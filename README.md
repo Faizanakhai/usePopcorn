@@ -14,7 +14,6 @@
 
 ## Screenshots 📸
 
-Add screenshots here to showcase your app’s features:
 
 1. **Home Screen**
     ![Screenshot 2025-01-01 113041](https://github.com/user-attachments/assets/fefe9169-ffd0-4588-a6d0-221fe06275ec)
