@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# usePopcorn 🎥🍿
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**usePopcorn** is a movie list manager to track and rate movies you’ve watched. Add movies, assign ratings, and keep your data private with browser local storage—no accounts needed! Built with React, it features a clean, intuitive interface for effortless management. Perfect for movie lovers to organize and revisit their favorites! 🎥🍿
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Features 🌟
+- **Add Movies**: Keep a list of movies you’ve watched or want to watch.
+- **Rate Movies**: Give ratings to movies and track your favorites.
+- **Local Storage**: Your data is saved securely in your browser.
+- **Simple Design**: Clean and user-friendly interface for easy management.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots 📸
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+1. **Home Screen**
+    ![Screenshot 2025-01-01 113041](https://github.com/user-attachments/assets/fefe9169-ffd0-4588-a6d0-221fe06275ec)
+   
+2. **Searching Movies**
+    ![Screenshot 2025-01-01 113224](https://github.com/user-attachments/assets/4d449214-265f-49f6-8609-8f364051f420)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Rating a Movie**
+   ![Screenshot 2025-01-01 113300](https://github.com/user-attachments/assets/f87af711-f1ae-4e56-8272-dc5bc54542e4)
 
-### `npm run build`
+4. **Adding a Movie**
+   ![Screenshot 2025-01-01 113343](https://github.com/user-attachments/assets/0fd78d3b-0452-44b4-a132-221c5cf53b33)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Getting Started 🚀
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run this project locally:
 
-### `npm run eject`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/usePopcorn.git
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Start the development server:
+   ```bash
+   npm start
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Built With 🛠
+- **React**: For building the dynamic user interface.
+- **Local Storage**: To securely store user data.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing 🤝
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License 📄
 
-### Analyzing the Bundle Size
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+Enjoy managing your movie list with **usePopcorn**! 🍿
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
