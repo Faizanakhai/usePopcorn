@@ -16,16 +16,17 @@
 
 
 1. **Home Screen**
-    ![Screenshot 2025-01-01 113041](https://github.com/user-attachments/assets/fefe9169-ffd0-4588-a6d0-221fe06275ec)
+    ![Screenshot 2025-01-01 113041](https://github.com/user-attachments/assets/05368a5f-a82c-4496-b4fa-25b6602a0787)
+
    
 2. **Searching Movies**
-    ![Screenshot 2025-01-01 113224](https://github.com/user-attachments/assets/4d449214-265f-49f6-8609-8f364051f420)
+    ![Screenshot 2025-01-01 113224](https://github.com/user-attachments/assets/9a22aa43-373d-4fc5-9d99-d431372fce91)
+   
+4. **Rating a Movie**
+    ![Screenshot 2025-01-01 113300](https://github.com/user-attachments/assets/6ae46ed3-ef81-4083-88b6-cf515a42fed2)
 
-3. **Rating a Movie**
-   ![Screenshot 2025-01-01 113300](https://github.com/user-attachments/assets/f87af711-f1ae-4e56-8272-dc5bc54542e4)
-
-4. **Adding a Movie**
-   ![Screenshot 2025-01-01 113343](https://github.com/user-attachments/assets/0fd78d3b-0452-44b4-a132-221c5cf53b33)
+5. **Adding a Movie**
+    ![Screenshot 2025-01-01 113343](https://github.com/user-attachments/assets/2489f910-8c7f-4839-96e1-923b68911a92)
 
 ---
 
